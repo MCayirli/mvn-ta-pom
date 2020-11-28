@@ -7,4 +7,4 @@ Page Object Model (POM) is a design pattern, popularly used in test automation t
 > **What is Page Factory in Selenium?**
 Page Factory in Selenium is an inbuilt Page Object Model framework concept for Selenium WebDriver but it is very optimized. It is used for initialization of Page objects or to instantiate the Page object itself. It is also used to initialize Page class elements without using "FindElement/s."
 
-[title](https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
+[Page Object Model (POM) & Page Factory in Selenium Tutorial](https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
